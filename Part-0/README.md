@@ -1,6 +1,16 @@
 # Exercises 0.1.-0.6.
 
-### [{() => fs} Fullstack Open Part 0](https://fullstackopen.com/en/part0/fundamentals_of_web_apps)
+> [!NOTE]
+> ### [{() => fs} Fullstack Open Part 0](https://fullstackopen.com/en/part0/fundamentals_of_web_apps)
+
+### Progress
+- [x] 0.1 HTML
+- [x] 0.2 CSS
+- [x] 0.3 HTML forms
+- [] 0.4 New note diagram
+- [] 0.5 Single page app diagram
+- [] 0.6 New note in Single page app diagram
+
 
 ## 0.1 HTML
 Review the basics of HTML by reading this tutorial from Mozilla: [HTML tutorial](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/HTML_basics).
