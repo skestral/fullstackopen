@@ -1,30 +1,3 @@
-# [{() => fs} Fullstack Open Part 0](https://fullstackopen.com/en/part0/fundamentals_of_web_apps)
-
-# Exercises 0.1.-0.6.
-
-### Progress
-- [x] 0.1 HTML
-- [x] 0.2 CSS
-- [x] 0.3 HTML forms
-- [ ] 0.4 New note diagram
-- [ ] 0.5 Single page app diagram
-- [ ] 0.6 New note in Single page app diagram
-
-
-
-## 0.1 HTML
-Review the basics of HTML by reading this tutorial from Mozilla: [HTML tutorial](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/HTML_basics).
-
-This exercise is not submitted to GitHub, it's enough to just read the tutorial
-
-## 0.2 CSS
-Review the basics of CSS by reading this tutorial from Mozilla: [CSS tutorial](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/CSS_basics).
-
-This exercise is not submitted to GitHub, it's enough to just read the tutorial
-## 0.3 HTML forms
-Learn about the basics of HTML forms by reading Mozilla's tutorial [Your first form](https://developer.mozilla.org/en-US/docs/Learn/HTML/Forms/Your_first_HTML_form).
-
-This exercise is not submitted to GitHub, it's enough to just read the tutorial
 ## [0.4 New note diagram](0.4-newNoteDiagram)
 
 In the section Loading a page containing JavaScript - review, the chain of events caused by opening the page https://studies.cs.helsinki.fi/exampleapp/notes is depicted as a sequence diagram
@@ -69,10 +42,3 @@ All necessary information for doing this, and the next two exercises, can be fou
 
 You can do the diagrams with any program, but perhaps the easiest and the best way to do diagrams is the Mermaid syntax that is now implemented in GitHub Markdown pages!
 
-## [0.5 Single page app diagram](0.5-singlePageAppDiagram)
-Create a diagram depicting the situation where the user goes to the single-page app version of the notes app at https://studies.cs.helsinki.fi/exampleapp/spa.
-
-## [0.6 New note in Single page app diagram](0.6-newNoteSinglePageAppDiagram)
-Create a diagram depicting the situation where the user creates a new note using the single-page version of the app.
-
-This was the last exercise, and it's time to push your answers to GitHub and mark the exercises as done in the submission system.
