@@ -4,7 +4,7 @@
 
 ### Progress
 
-- [ ] [courseinfo](courseinfo)
+- [x] [courseinfo](courseinfo)
 - [ ] [unicafe](unicafe)
 - [ ] [anecdotes](anecdotes)
 
@@ -16,6 +16,9 @@
 
 ## 1.1 - 1.5 [courseinfo](https://fullstackopen.com/en/part1/introduction_to_react#exercises-1-1-1-2)
 
+> Status: **Completed** on February 28, 2025
+
+
 The application that we will start working on in this exercise will be further developed in a few of the following exercises. In this and other upcoming exercise sets in this course, it is enough to only submit the final state of the application. If desired, you may also create a commit for each exercise of the series, but this is entirely optional.
 
 [{() => fs} courseinfo Solution Folder](/Part-01/courseinfo)
@@ -23,12 +26,18 @@ The application that we will start working on in this exercise will be further d
 
 ## 1.6 - 1.9 [unicafe]()
 
-[{() => fs} courseinfo Solution Folder](/Part-01/unicafe)
+> Status: **Pending**
+
+
+[{() => fs} unicafe Solution Folder](/Part-01/unicafe)
 
 ---
 
 ## 1.9 - 1.15 [anecdotes]()
 
-[{() => fs} courseinfo Solution Folder](/Part-01/anecdotes)
+> Status: **Pending**
+
+
+[{() => fs} anecdotes Solution Folder](/Part-01/anecdotes)
 
 ---
